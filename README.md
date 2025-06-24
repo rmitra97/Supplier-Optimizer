@@ -1,4 +1,5 @@
 # ESG Analysis and Supplier Optimization Pipeline
+_By: Kopal Bhatnagar, Rashmila Mitra, Tushar Yadav, Arjun Lamba, Tamanna Sharma (May 2025)_
 
 A comprehensive ESG (Environmental, Social, and Governance) analysis pipeline that combines document processing, semantic search, scoring, and optimization capabilities. This system helps organizations analyze ESG metrics, optimize supplier selection, and make data-driven sustainability decisions.
 
